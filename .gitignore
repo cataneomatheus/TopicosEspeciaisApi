@@ -1,0 +1,30 @@
+# Build
+bin/
+obj/
+publish/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.rsuser
+
+# NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.swp
+*.tmp
